@@ -5,7 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: test
+  label: Biography
+- type: heading
+  label: Research Grants and Accomplishments
+- type: heading
+  label: Analytics
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
