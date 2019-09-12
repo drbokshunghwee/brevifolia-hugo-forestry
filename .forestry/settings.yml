@@ -7,6 +7,8 @@ sections:
 - type: heading
   label: Biography
 - type: heading
+  label: Research Areas
+- type: heading
   label: Research Grants and Accomplishments
 - type: heading
   label: Analytics
